@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\LaboratorioManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0389261E-07BE-471F-8AA3-474C273D501B}|LaboratorioManagerAPI.csproj|c:\\users\\marti\\source\\repos\\laboratoriomanagerapi\\models\\cientifico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0389261E-07BE-471F-8AA3-474C273D501B}|LaboratorioManagerAPI.csproj|solutionrelative:models\\cientifico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cientifico.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\LaboratorioManagerAPI\\Models\\Cientifico.cs",
+              "RelativeDocumentMoniker": "Models\\Cientifico.cs",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\LaboratorioManagerAPI\\Models\\Cientifico.cs",
+              "RelativeToolTip": "Models\\Cientifico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:56:02.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
